@@ -1,0 +1,25 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Javascript data structures custom implementation.",
+  "repository": "https://github.com/SergheiTibulschii/DSCI.git",
+  "author": "SergheiTibulschii",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "prettier": "^2.2.1",
+    "ts-loader": "^8.0.12",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0"
+  },
+  "prettier": {
+    "printWidth": 120,
+    "trailingComma": "all",
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": false,
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "jsxBracketSameLine": true
+  }
+}
